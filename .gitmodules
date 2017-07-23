@@ -7,3 +7,6 @@
 [submodule "RF24Mesh"]
 	path = RF24Mesh
 	url = https://github.com/ProyectoLuna/RF24Mesh.git
+[submodule "Bounce2"]
+	path = Bounce2
+	url = https://github.com/ProyectoLuna/Bounce2.git
